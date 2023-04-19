@@ -1,1 +1,2 @@
 # Alpha_Feedback_front
+ALPHA feedback is a mobile app that aims to provide a solution to these challenges faced by African university students. The app allows students to share feedback directly with higher officials of their university, enabling them to report any problems they are facing, including those related to academic quality, infrastructure, or support. ALPHA feedback also enables students to attach images to their feedback and to upvote and downvote other students' feedback.
